@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Julek
+- 👀 I’m interested in making games
+- 🌱 I’m currently learning Python
